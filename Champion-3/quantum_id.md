@@ -1,5 +1,5 @@
 Name: The Quantum (*Master of Quantum Operations*)
-Logo: (Optional)
+Logo: quantumisation.png
 
 Strength: An advanced champion implementing quantum-inspired computational strategies through sophisticated bitwise operations. Features three specialized quantum-like processes working in harmony.
 

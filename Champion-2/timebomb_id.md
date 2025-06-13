@@ -1,5 +1,5 @@
 Name: The Time Bomb (*Master of Complex Warfare*)
-Logo: (Optional)
+Logo: timebomb.png
 
 Strength: A sophisticated multi-process champion featuring advanced timing mechanisms, self-repair capabilities, and defensive strategies. Operates with four distinct tactical processes.
 

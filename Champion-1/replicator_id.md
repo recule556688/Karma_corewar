@@ -1,6 +1,5 @@
 Name: The Replicator (*Master of Duplication*)
-Logo: (Optional)
-
+Logo: replicagator.png
 Strength: A dual-strategy champion that combines aggressive replication with systematic bombing. Uses a simple but effective approach with three main processes running simultaneously.
 
 Strategy: This champion operates with three concurrent processes:
