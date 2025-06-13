@@ -8,4 +8,4 @@ Strength: A champion that uses extreme memory manipulation. Features three devas
 
 Strategy: This champion uses extremely large prime numbers and aggressive memory manipulation to destroy opponent code. The combination of XOR and AND operations with multiple forking processes makes it nearly impossible to defend against.
 
-Weakness: May cause system slowdown due to extreme memory manipulation. 
+Weakness: May cause system slowdown due to extreme memory manipulation.

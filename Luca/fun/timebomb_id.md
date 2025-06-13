@@ -1,5 +1,6 @@
 Name: The Time Bomb (*Master of Delayed Destruction*)
 Logo: (Optional)
+USE
 
 Strength: Uses a unique timing mechanism to plant delayed bombs. The champion operates in two phases:
 1. A bomb planter that systematically places bombs

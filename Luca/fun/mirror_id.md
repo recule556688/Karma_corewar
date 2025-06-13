@@ -1,6 +1,6 @@
 Name: The Mirror (*Reflection Master*)
 Logo: (Optional)
-
+USE
 Strength: A unique champion that reflects and amplifies opponent attacks. Uses two complementary processes:
 1. A reflector that copies and redirects opponent code
 2. An amplifier that doubles the power of reflected attacks

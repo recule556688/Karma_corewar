@@ -1,5 +1,6 @@
 Name: The Quantum (*Master of Superposition*)
 Logo: (Optional)
+USE
 
 Strength: A unique champion that uses quantum-like behavior with superposition and entanglement. Features:
 1. A superposition process that creates multiple states simultaneously
