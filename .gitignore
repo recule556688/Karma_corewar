@@ -1,0 +1,15 @@
+# Compiled binaries
+asm
+corewar
+
+
+# Keep champion directories but ignore specific patterns if needed
+# Champion-1/
+# Champion-2/ 
+# Champion-3/
+# champions/
+# Luca/
+
+# You can uncomment and modify the above lines if you want to ignore specific champion directories
+champions
+Luca
